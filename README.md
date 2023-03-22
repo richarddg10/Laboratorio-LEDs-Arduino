@@ -1,2 +1,1 @@
-# Laboratorio-LEDs-Arduino
-Laboratorio-LEDs-Arduino
+Grupo: Richard Delgado Garzón, Santiago Gomez y Andres Santacruz
